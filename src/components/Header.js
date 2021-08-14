@@ -1,7 +1,7 @@
-function colorheader() {
+function Header() {
     return (
-        <h2>Color Browser</h2>
+        <h2>Color Browser App</h2>
     )
 }
 
-export default colorheader
+export default Header
